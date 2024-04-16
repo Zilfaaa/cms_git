@@ -1,0 +1,10 @@
+h1 {
+    background-color: #90BEDE;
+    padding: 10px;
+    color: #fff;
+    transition: background-color 0.8s ease;
+  }
+  
+  h1:hover {
+    background-color: #2B2D42;
+  }
